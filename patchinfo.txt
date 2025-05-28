@@ -1,7 +1,7 @@
 DataTable\Character.edf 38c9fae560c1663aab4095a0ca28b7898dac30fe
 DataTable\en-gb\NDCharacter.edf 1ec672c395575b1cdce81c6cb6428a59b6440a8e
 DataTable\en-gb\NDEventShip.edf 9f8c05e222d644e1e0b533d3041bbf44cada0ffa
-DataTable\en-gb\NDItem.edf 821801f073bb05064f8fa30d6c5f6c249930ea23
+DataTable\en-gb\NDItem.edf d19e88d6c84dd7089b9d8bad80c9a1781042a947
 DataTable\en-gb\NDItemCash.edf 76ff49e8c4ec890dcbbb07e34296b0cd5d5ab840
 DataTable\en-gb\NDLanguage.edf 4d70972fa5e57d6a5b5304c972960cd51c0355f5
 DataTable\en-gb\NDMap.edf 81cd872c5a0601b7487ae8434a91d7d8bcf8435c
@@ -9,9 +9,9 @@ DataTable\en-gb\NDMsgEvent.edf ac0d1ba0de345d19347e7e2085213827703ce096
 DataTable\en-gb\NDMsgMonster.edf f46c5a481dfe64033ae101d4f0f1d1ff6d808fc0
 DataTable\en-gb\NDQuest.edf c00fe1555c754804964d676f3a2e386b5f185670
 DataTable\en-gb\NDSkillForce.edf 5354b6f7d382f38a4bfe8ccb3aacfdd1fc082f28
-DataTable\en-gb\NDStore.edf 416604f5a42d2b111d5898e43eb04a933fc8245c
+DataTable\en-gb\NDStore.edf ec2917808a0224d676a2c037bedffea3af8efa0a
 DataTable\EventShip.edf bd99546043e787dcd59235cad9e961652de99d0c
-DataTable\Item.edf f24b8b17abcd66db763289839f41247f11375905
+DataTable\Item.edf aef9898713665cade4efd9f9183f8e681e60d8a4
 DataTable\ItemCash.edf c1ae78628bec926133db47bb648b408ddddd7577
 DataTable\ItemCombine.edf ce8f8360a59f2b6c4508cc86b54eb19cd774db43
 DataTable\ItemPremium.edf d266998788a0d9955bee8c7369c4bedf127b720c
@@ -20,8 +20,8 @@ DataTable\ItemTimer.edf ed2c28051fc35ad9ca606752a15f5bc677da41e7
 DataTable\Map.edf 0e58bcb71aa4c31d5505a587775ad5c15e2e6786
 DataTable\MsgEvent.edf dc3c8251e2c14a4cbcbad01aa8aeab6e3d83d73d
 DataTable\PlayerCharacter.edf 045b09ad25473f4d326d8aa20c2e9a281263b491
-DataTable\Quest.edf ad22a7ada9d3422bd05c09c72ebb11821b723a6e
+DataTable\Quest.edf 2b88c179da3fdfc89da408e987fa5b907f44622e
 DataTable\Resource.edf 7c910f887ad5a14b2d0649a6ca57f589385332aa
 DataTable\SkillForce.edf 46a5b2921a536893a62dd019765dc2daa8e84ad9
-DataTable\Store.edf 0cb40622c5ba49660d1d81be30d37e7c3ca549be
+DataTable\Store.edf 52ab938fd48a74f2bf2341a5e068a1447d8fd364
 SpriteImage\common\item.spr 6d04557b9aa33a234743601e451b4baa346785ec

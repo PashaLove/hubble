@@ -26,4 +26,4 @@ DataTable\Quest.edf ec3014b02dc8a8de591da1746aac6d7011e14238
 DataTable\Resource.edf 7c910f887ad5a14b2d0649a6ca57f589385332aa
 DataTable\SkillForce.edf 4daa1fedb13c3318ee6a54daaa6f748e31782410
 DataTable\Store.edf 44e522a83b997b9fbabdee4fd7b3d4bb4f387de5
-SpriteImage\common\item.spr 3d8e0f91d4b5d40ced7b5ba47265b9ada06094b5
+SpriteImage\common\item.spr 0deb40ab3b5f3f186263146d1efe11d7da683d46

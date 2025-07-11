@@ -1,6 +1,6 @@
 Chef\monster.ini 5fc94a39ecd22065eba98fd3fa1c6ec3fdf5f110
 d3d9.dll 05a94be1eadb704e1702063578178a2ffd7596c5
-DataTable\Character.edf 5d77c2d7e3c083b147c25c843c2ae5816eb67947
+DataTable\Character.edf 7b8bf78cd070cf94256491a235146ffccf940d16
 DataTable\en-gb\NDCharacter.edf 51348d43eb329cccae1ace9bf9675a2bf14182ae
 DataTable\en-gb\NDEventShip.edf e94ecba2378b9b518e19fae36602222388c317f8
 DataTable\en-gb\NDItem.edf ca1ce041760b77d502cd9c3f61a11e8463700b16

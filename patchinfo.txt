@@ -1,3 +1,5 @@
+Character\player\ani\BELMALE_MELEE_JUDGMENT_TMACE_00.ANI fbb804971ce5cf2e2c6c65f828de7c2e9a465288
+Character\player\ani\BELMALE_MELEE_JUDGMENT_TSWORD_00.ANI fbb804971ce5cf2e2c6c65f828de7c2e9a465288
 Character\player\ani\bf2ca.rfs e87fdb6c0e0797e0020a124732d9a0f4e32b4e0f
 Character\player\ani\bm2ca.rfs 69d8c2e0b5c945b6181f92681f5a5e8f14b8a780
 Chef\monster.ini 5fc94a39ecd22065eba98fd3fa1c6ec3fdf5f110

@@ -7,7 +7,7 @@ d3d9.dll 05a94be1eadb704e1702063578178a2ffd7596c5
 DataTable\Character.edf 53c04bda0d895b34df6fcd80245fa9470d9684b8
 DataTable\en-gb\NDCharacter.edf 4a12f283133254cb70eef7ab315952c21e369b09
 DataTable\en-gb\NDEventShip.edf e94ecba2378b9b518e19fae36602222388c317f8
-DataTable\en-gb\NDItem.edf f992a041a19ed2c8cb52790e755282b0fe51633a
+DataTable\en-gb\NDItem.edf d3dcf1ceab674d4b177de181b327ce1391586fae
 DataTable\en-gb\NDItemCash.edf 2fa85530c2c99913ed0d7ef88d7f68edb908cda5
 DataTable\en-gb\NDLanguage.edf 93949484091cf2f02a858e17f8c5e0c33ce71c1b
 DataTable\en-gb\NDMap.edf f39d71c987a20ea72f021f521944419d4af70b7a
@@ -15,7 +15,7 @@ DataTable\en-gb\NDMsgEvent.edf 08e4bce71c8a89a0c1f13f04e6c664c42977daec
 DataTable\en-gb\NDMsgMonster.edf 20d2efb5581e8aae68bce73ef70a81e45b329bd6
 DataTable\en-gb\NDQuest.edf cc44411f684a86339920af8f1de95c13dd1ebfe8
 DataTable\en-gb\NDSkillForce.edf 8c1168921c6da3ccb50260c971dda927dd57583a
-DataTable\en-gb\NDStore.edf 55fc55511fb471fd8ead303734d860e5ee4640cc
+DataTable\en-gb\NDStore.edf a9de8e3811d29d5bfd852f4346110e3c63ecfe87
 DataTable\en-gb\ui.lang ef0ff0e5a2df24616f6b656986fa58f6fe2f7a9d
 DataTable\en-ph\NDCharacter.edf 4a12f283133254cb70eef7ab315952c21e369b09
 DataTable\en-ph\NDEventShip.edf e94ecba2378b9b518e19fae36602222388c317f8
@@ -30,7 +30,7 @@ DataTable\en-ph\NDSkillForce.edf 8c1168921c6da3ccb50260c971dda927dd57583a
 DataTable\en-ph\NDStore.edf e9418912f183879f031cf6da6904deded6c637e5
 DataTable\en-ph\ui.lang ef0ff0e5a2df24616f6b656986fa58f6fe2f7a9d
 DataTable\EventShip.edf e7ca9401bb8f9dbeec8b4d83144f77f1257e9895
-DataTable\Item.edf 1f94a77ddcc4f8eb5dfdfb2954d8e2e485f1d173
+DataTable\Item.edf b738c98cdd30e4d0bb64314260b421181c51b681
 DataTable\ItemCash.edf c28e7dd1796f39620213d216eefc65bc1a01ab41
 DataTable\ItemCombine.edf ad2be3ebc985d2125976c62a0f38ebadd8e94fcf
 DataTable\ItemPremium.edf fd652b72607a757345fb484ce89edb08bd34d91e
@@ -42,7 +42,7 @@ DataTable\PlayerCharacter.edf 2e69ccb364f02ab611d86cad193d0e551bc9811c
 DataTable\Quest.edf 54f3fa8d69591c3229d9315c63097f7d9d9df46e
 DataTable\Resource.edf a98a2515323876c81e48e7e6eae71a3192c1e3b5
 DataTable\SkillForce.edf 480c7f45424c973ecc66f405a742e78c9f3dfc56
-DataTable\Store.edf 6b5f60093da490d6279736f37e70272382782232
+DataTable\Store.edf 1cb33ea6d15572fc07c1437501517a4f26e23beb
 Effect\effectentity43.rpk 30ce9001ee85c2c4564252eee4d5d6cd39220561
 Map\Platform01\Sky\Platform01Sky.r3e e0ac42019e1e7ca751560ae2bed2132ae36d99a2
 Map\Platform01\Sky\Platform01Sky.r3m a23cefc92a1443d712f917567c79e16f43af0f09

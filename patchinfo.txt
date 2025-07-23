@@ -3,7 +3,6 @@ Character\player\ani\BELMALE_MELEE_JUDGMENT_TSWORD_00.ANI fbb804971ce5cf2e2c6c65
 Character\player\ani\bf2ca.rfs ac533394ff5ca9fecf1882c2bd11049d066116b7
 Character\player\ani\bm2ca.rfs 5c64e3121892e0e703f2b87d84b09dd5d68ef2b8
 Chef\monster.ini 5fc94a39ecd22065eba98fd3fa1c6ec3fdf5f110
-d3d9.dll 05a94be1eadb704e1702063578178a2ffd7596c5
 DataTable\Character.edf 53c04bda0d895b34df6fcd80245fa9470d9684b8
 DataTable\en-gb\NDCharacter.edf 4a12f283133254cb70eef7ab315952c21e369b09
 DataTable\en-gb\NDEventShip.edf e94ecba2378b9b518e19fae36602222388c317f8

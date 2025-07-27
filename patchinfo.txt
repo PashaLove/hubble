@@ -51,4 +51,5 @@ Map\Platform01\Sky2\Platform01Sky.r3t 0f42fff1c520dd68502614fab5a11cd38a3e120b
 Map\Platform01\Sky2\Platform01sky2.r3e e0ac42019e1e7ca751560ae2bed2132ae36d99a2
 Map\Platform01\Sky2\Platform01sky2.r3m a23cefc92a1443d712f917567c79e16f43af0f09
 Map\Platform01\Sky2\Platform01sky2.r3t 0f42fff1c520dd68502614fab5a11cd38a3e120b
+rf_online.bin 35a51b430a6d1d445ec2605ab14a3612e98f3103
 SpriteImage\common\item.spr 50e9fece4c3967a10c6ed553df9616fbf0e6d8ac

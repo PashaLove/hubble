@@ -9,7 +9,7 @@ DataTable\en-gb\NDEventShip.edf 6d519c1fe7fe0e468ee95613a2190012a659d02d
 DataTable\en-gb\NDItem.edf 8ca4ae1917774ece44d20004124a3f20abdf46c3
 DataTable\en-gb\NDItemCash.edf f150bd4eef0efedb44c4b2efb9d215d10345dda2
 DataTable\en-gb\NDLanguage.edf e96d750ae12c54bd9d7d36d3f76a56ce3e1f59d8
-DataTable\en-gb\NDMap.edf bdc7cbf6d587232bb9160b1a3a3db562d058a0be
+DataTable\en-gb\NDMap.edf 9803c3dab969f4d65cb04c59b637b90b33b49a47
 DataTable\en-gb\NDMsgEvent.edf 59d24854c5f1f7bca3b2b3fddd97a1a4538c6f80
 DataTable\en-gb\NDMsgMonster.edf e961c11ee9fcb59b29ca98d063272f02bcaf021f
 DataTable\en-gb\NDQuest.edf 92b28659193f6298331a1914790c72ec6833aafc

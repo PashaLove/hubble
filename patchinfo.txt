@@ -1,7 +1,7 @@
 DataTable\Character.edf 0ba3a8e0367cf847501392cee3342ee2f67c139a
 DataTable\en-ph\NDCharacter.edf 199f022e9a41fba02d6b5e2cb032ea2719ce4bc4
 DataTable\en-ph\NDEventShip.edf 9e7cd414cc2298b0d25efaa70d58fce12456e79b
-DataTable\en-ph\NDItem.edf 7a1117f1695d2387d3a5225f92dfdf829ad43e2a
+DataTable\en-ph\NDItem.edf 9a0bb872e093f9ab0f748ab077322135deb142cf
 DataTable\en-ph\NDItem.sync-conflict-20260820-234334-2PYRVTE.edf ed4eeeba12313f05edb187e5398572bbd30047d1
 DataTable\en-ph\NDItemCash.edf 541e8aac3f7922faea2b63cff48e701f4c59c590
 DataTable\en-ph\NDLanguage.edf 50062770327cc8509d33202de5f6766e187c964e
@@ -10,10 +10,10 @@ DataTable\en-ph\NDMsgEvent.edf 892eec755730d3e16db8a09b6773dae9eb435b06
 DataTable\en-ph\NDMsgMonster.edf 4b8a828417e50e2346b3d2b1b1c195ee3062a36e
 DataTable\en-ph\NDQuest.edf 1e3e0272cabb177d36bb725beaa4b193040d5ca9
 DataTable\en-ph\NDSkillForce.edf 64dfe4fef97972c322b871eaa88c37d3d019a024
-DataTable\en-ph\NDStore.edf 3a3afe9e37d15118674969be19733b6bdd31bd43
+DataTable\en-ph\NDStore.edf 81a14f0dc26458c333970f56f764887525236c7f
 DataTable\en-ph\ui.lang ca081a7e1263852b7cf87c61db4b8edc96e90b41
 DataTable\EventShip.edf 8319101f4219f94db24e2b5144adf1be8f788da7
-DataTable\Item.edf 51021578d5aca71f887805cbc0c6ff98b4a9a2eb
+DataTable\Item.edf 79988b28df8698d6228e72357c84d41d89a1a93c
 DataTable\ItemCash.edf e082992d155288ece0b28ed577a49ec77f92bec4
 DataTable\ItemCombine.edf 917070ea1dded02e1464e534cce74173cf40bbde
 DataTable\ItemPremium.edf 4688e6d384d6b5beebced3de50ce3ed289cf26dd
@@ -25,6 +25,6 @@ DataTable\PlayerCharacter.edf 472c5a27e4c186e3501631bfd0de7cf011bef411
 DataTable\Quest.edf b31c11c5f476850576c999b78355c7d142cf313c
 DataTable\Resource.edf 22c4f3af5335f27f9d0112e605039f88be5196b9
 DataTable\SkillForce.edf 708e39ce6e814c6cec52fab9c6f19e0857f78743
-DataTable\Store.edf 20582ddad581de4cbff864c04bf27925b4b69a04
+DataTable\Store.edf 67fa0225fc32cdef9c19c150dff6403e4950acd8
 SpriteImage\en-ph\item.spr 9183218d997c26a80e3a70cdf47448d960026702
 SpriteImage\en-ph\loading.spr de489a14582e07448eb046d3b057d736ec6b2697

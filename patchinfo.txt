@@ -27,4 +27,5 @@ DataTable\Resource.edf 22c4f3af5335f27f9d0112e605039f88be5196b9
 DataTable\SkillForce.edf 708e39ce6e814c6cec52fab9c6f19e0857f78743
 DataTable\Store.edf 67fa0225fc32cdef9c19c150dff6403e4950acd8
 SpriteImage\en-ph\item.spr 9183218d997c26a80e3a70cdf47448d960026702
+SpriteImage\en-ph\item.sync-conflict-20260822-192218-QSJFUUO.spr ddc8d816e40fc617cabc029113a3da13738d1197
 SpriteImage\en-ph\loading.spr de489a14582e07448eb046d3b057d736ec6b2697

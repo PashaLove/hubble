@@ -2,7 +2,7 @@ d3d9.dll 0c366c48cbd9c5a9167714e0c35e140641785596
 DataTable\Character.edf 06bb5c081aaa5de1aa8e68d57fb4eb914a0fc471
 DataTable\en-ph\NDCharacter.edf bcaddc487c8080c10b5b1f26c1d7c2882d7e5458
 DataTable\en-ph\NDEventShip.edf 51f49e0e08a9de6cae6cb538878d5303c8dcca39
-DataTable\en-ph\NDItem.edf 76e458a3cd0376bd33e2bc4cdde72b701f020de8
+DataTable\en-ph\NDItem.edf cfb4b8018ea224e1cddba482f169997e9cbc0f04
 DataTable\en-ph\NDItemCash.edf 6b0f5a19bbe4d9833f5e43f38e72e9a7d4f3b3c9
 DataTable\en-ph\NDLanguage.edf 1ce0166aad2ae563e6ff324cb63576213ad65ef8
 DataTable\en-ph\NDMap.edf 1c316ee9ab2a86dc7eac9a3941eaddee97dac8d7
@@ -10,10 +10,10 @@ DataTable\en-ph\NDMsgEvent.edf 92786a37b231b3b2823ad42f8c2d6d794e0d67bb
 DataTable\en-ph\NDMsgMonster.edf fd57c367c67ab7563685d2002ad57c653344aeb8
 DataTable\en-ph\NDQuest.edf 397847efb28ce10487021e9714e966a6471eeda7
 DataTable\en-ph\NDSkillForce.edf f5bdf8bb5ec74b272c7dc681f52d0ef4d79dd96b
-DataTable\en-ph\NDStore.edf 68eaa086bf0323fd9e882634dc0133dfe7a36bdf
+DataTable\en-ph\NDStore.edf e7d1ad12cdc112aa392f5bea46bfe0cd10d093f4
 DataTable\en-ph\ui.lang ca081a7e1263852b7cf87c61db4b8edc96e90b41
 DataTable\EventShip.edf b4f09aa6fc2d814508f78c60a6d33310d12b0536
-DataTable\Item.edf 42c085e96de2286922a735b53c60f78fec39dffd
+DataTable\Item.edf 8e73835a07775dd2df3feca55c98a289a6ecd04a
 DataTable\ItemCash.edf 7ae472f2807a60d242a018f4a2112b9cc9d09d67
 DataTable\ItemCombine.edf 27b3904bd88a1a46154a63e69c70b1c5c3a46c66
 DataTable\ItemPremium.edf f5281d5d101c20407801cbdf9a9cdb4dddc24622
@@ -25,6 +25,6 @@ DataTable\PlayerCharacter.edf bbd3f0836183d8a194f3a74550dce2b68b388266
 DataTable\Quest.edf 76c9bb4f0429c5e4cdcf631b80c1b4ee460fb393
 DataTable\Resource.edf d6908ee1088b78d49951e429b7508d926ca393a1
 DataTable\SkillForce.edf cf4e1de894ca009312d0a7afc857d3f9b281c305
-DataTable\Store.edf a875c69c7fff2a06b409c538f48f1f3d9b010cda
+DataTable\Store.edf a0db23f35c9cd303de71ea040dd1ee80075ffe6b
 SpriteImage\en-ph\item.spr c296d5039a560d552e08349bdbbfaf5d5b4471c7
 SpriteImage\en-ph\loading.spr de489a14582e07448eb046d3b057d736ec6b2697

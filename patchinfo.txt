@@ -1,9 +1,9 @@
 Chef\Patternlist.txt 25c1ba094b00d741502c828759cfa30423946083
 d3d9.dll 0c366c48cbd9c5a9167714e0c35e140641785596
-DataTable\Character.edf 4f6dad34f87c4d0d0a192b69ab0b990eb0c590e0
-DataTable\en-ph\NDCharacter.edf 4e847fde25d566c7a04ec06a38f7f64002decd65
+DataTable\Character.edf 3d1aa6838be3f66ac79b0dbd0cf58368738d57cb
+DataTable\en-ph\NDCharacter.edf 078d991528fba36a5cf587889c5706eca16aca9b
 DataTable\en-ph\NDEventShip.edf 51f49e0e08a9de6cae6cb538878d5303c8dcca39
-DataTable\en-ph\NDItem.edf 5306b230ea208061b8d2fbb6a26d2fb9da138eaa
+DataTable\en-ph\NDItem.edf 95b605262ff3784bdb31db51804daadcd22c62f8
 DataTable\en-ph\NDItemCash.edf a4cb58abcbfbcd6c89dbe7ba8c7c2f9670b6a794
 DataTable\en-ph\NDLanguage.edf 1ce0166aad2ae563e6ff324cb63576213ad65ef8
 DataTable\en-ph\NDMap.edf 1c316ee9ab2a86dc7eac9a3941eaddee97dac8d7
@@ -14,7 +14,7 @@ DataTable\en-ph\NDSkillForce.edf f167e157d21ee5360cc1ae01a7e2f3830f2f95ed
 DataTable\en-ph\NDStore.edf 009cdc461aa1ed6fd7c98d39b2bd1679be700664
 DataTable\en-ph\ui.lang ca081a7e1263852b7cf87c61db4b8edc96e90b41
 DataTable\EventShip.edf b4f09aa6fc2d814508f78c60a6d33310d12b0536
-DataTable\Item.edf 957a8562907decf76ea596da6d2d81b49d8249fd
+DataTable\Item.edf bfe3109d220f079e66e083975f3feaaafa0cd849
 DataTable\ItemCash.edf eba75493511cf9bc155679880dd4ae493b897500
 DataTable\ItemCombine.edf 0e1a5ec541573c168fa990a9bcc6207bc9fb27bd
 DataTable\ItemPremium.edf f5281d5d101c20407801cbdf9a9cdb4dddc24622
